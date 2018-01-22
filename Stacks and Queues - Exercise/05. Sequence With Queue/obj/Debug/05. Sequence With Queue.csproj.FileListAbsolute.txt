@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe.config
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.pdb
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\05. Sequence With Queue.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.pdb

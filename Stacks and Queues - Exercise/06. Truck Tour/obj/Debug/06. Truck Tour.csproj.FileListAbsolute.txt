@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe.config
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\06. Truck Tour\bin\Debug\_06.Truck_Tour.pdb
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\06. Truck Tour.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\_06.Truck_Tour.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\06. Truck Tour\obj\Debug\_06.Truck_Tour.pdb
