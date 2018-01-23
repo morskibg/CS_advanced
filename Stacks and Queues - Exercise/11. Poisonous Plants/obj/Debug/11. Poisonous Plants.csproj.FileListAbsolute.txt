@@ -1,0 +1,5 @@
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.exe.config
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\11. Poisonous Plants\bin\Debug\_11.Poisonous_Plants.pdb
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\11. Poisonous Plants\obj\Debug\_11.Poisonous_Plants.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\11. Poisonous Plants\obj\Debug\_11.Poisonous_Plants.pdb
