@@ -4,3 +4,9 @@ E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\01. Reverse Numbers.csprojResolveAssemblyReference.cache
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.exe
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.pdb
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe.config
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.pdb
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\01. Reverse Numbers.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.exe
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.pdb

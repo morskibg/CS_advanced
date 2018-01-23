@@ -4,3 +4,9 @@ E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\03. Maximum Element.csprojResolveAssemblyReference.cache
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\_03.Maximum_Element.exe
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\_03.Maximum_Element.pdb
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe.config
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\_03.Maximum_Element.pdb
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\03. Maximum Element.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\_03.Maximum_Element.exe
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\_03.Maximum_Element.pdb

@@ -3,3 +3,9 @@ E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Ope
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.pdb
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.exe
 E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.pdb
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe.config
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.pdb
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\02. Basic Stack Operations.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.exe
+D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.pdb

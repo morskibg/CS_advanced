@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Numbers", "01. Reverse Numbers\01. Reverse Numbers.csproj", "{6D09903C-63CA-4BAD-A682-5C27527FA93B}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Truck Tour", "06. Truck Tour\06. Truck Tour.csproj", "{D98E3364-1AE2-4935-9B39-218645F6431B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Balanced Parenthesis", "07. Balanced Parenthesis\07. Balanced Parenthesis.csproj", "{661DF49E-8F96-47E9-8083-D7613BF9A0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Recursive Fibonacci", "08. Recursive Fibonacci\08. Recursive Fibonacci.csproj", "{58EF001C-338E-4725-85AB-1513ECB9F877}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{661DF49E-8F96-47E9-8083-D7613BF9A0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{661DF49E-8F96-47E9-8083-D7613BF9A0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{661DF49E-8F96-47E9-8083-D7613BF9A0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EF001C-338E-4725-85AB-1513ECB9F877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EF001C-338E-4725-85AB-1513ECB9F877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EF001C-338E-4725-85AB-1513ECB9F877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EF001C-338E-4725-85AB-1513ECB9F877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
