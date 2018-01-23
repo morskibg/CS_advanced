@@ -4,3 +4,9 @@ D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci
 D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.pdb
 D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.exe
 D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.pdb
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe.config
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\bin\Debug\_09.Stack_Fibonacci.pdb
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\09. Stack Fibonacci.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\09. Stack Fibonacci\obj\Debug\_09.Stack_Fibonacci.pdb

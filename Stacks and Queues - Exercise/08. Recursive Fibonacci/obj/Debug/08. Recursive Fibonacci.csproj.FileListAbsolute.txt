@@ -4,3 +4,9 @@ D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibon
 D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.exe
 D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.pdb
 D:\Soft\C#\projects\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\08. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe.config
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\bin\Debug\_08.Recursive_Fibonacci.pdb
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\08. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.exe
+E:\Work\SoftUni\git\CS_advanced\Stacks and Queues - Exercise\08. Recursive Fibonacci\obj\Debug\_08.Recursive_Fibonacci.pdb
