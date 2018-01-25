@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\4. Pascal Triangle\obj\Debug\4. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe.config
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.pdb
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.pdb

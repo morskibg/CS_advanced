@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\bin\Debug\_3.Group_Numbers.exe.config
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\bin\Debug\_3.Group_Numbers.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\bin\Debug\_3.Group_Numbers.pdb
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\obj\Debug\3. Group Numbers.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\obj\Debug\3. Group Numbers.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\obj\Debug\_3.Group_Numbers.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\3. Group Numbers\obj\Debug\_3.Group_Numbers.pdb

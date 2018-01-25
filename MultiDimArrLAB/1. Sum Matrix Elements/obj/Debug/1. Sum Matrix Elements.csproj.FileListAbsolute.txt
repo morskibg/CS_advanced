@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe.config
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.pdb
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.pdb

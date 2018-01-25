@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.exe.config
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.pdb
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\obj\Debug\2. Square With Maximum Sum.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\obj\Debug\2. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\obj\Debug\_2.Square_With_Maximum_Sum.exe
+E:\Work\SoftUni\git\CS_advanced\MultiDimArrLAB\2. Square With Maximum Sum\obj\Debug\_2.Square_With_Maximum_Sum.pdb
