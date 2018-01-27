@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\4. Maximal Sum\obj\Debug\4. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.pdb

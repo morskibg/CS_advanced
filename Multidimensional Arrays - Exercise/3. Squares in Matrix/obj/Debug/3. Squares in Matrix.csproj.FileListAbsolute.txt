@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\3. Squares in Matrix.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\3. Squares in Matrix.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.pdb

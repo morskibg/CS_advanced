@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\_5.Rubiks_Matrix.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\_5.Rubiks_Matrix.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\_5.Rubiks_Matrix.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\5. Rubiks Matrix.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\5. Rubiks Matrix.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\_5.Rubiks_Matrix.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\_5.Rubiks_Matrix.pdb

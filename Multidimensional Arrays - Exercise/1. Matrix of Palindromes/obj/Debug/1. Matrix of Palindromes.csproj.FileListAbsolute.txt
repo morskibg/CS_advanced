@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\1. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\1. Matrix of Palindromes.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\_1.Matrix_of_Palindromes.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\_1.Matrix_of_Palindromes.pdb
