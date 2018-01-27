@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\obj\Debug\9. Crossfire.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\obj\Debug\9. Crossfire.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\bin\Debug\_9.Crossfire.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\bin\Debug\_9.Crossfire.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\bin\Debug\_9.Crossfire.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\obj\Debug\_9.Crossfire.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\9. Crossfire\obj\Debug\_9.Crossfire.pdb

@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\bin\Debug\_8.Radioactive_Bunnies.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\bin\Debug\_8.Radioactive_Bunnies.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\bin\Debug\_8.Radioactive_Bunnies.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\obj\Debug\8. Radioactive Bunnies.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\obj\Debug\_8.Radioactive_Bunnies.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\obj\Debug\_8.Radioactive_Bunnies.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\8. Radioactive Bunnies\obj\Debug\8. Radioactive Bunnies.csprojResolveAssemblyReference.cache

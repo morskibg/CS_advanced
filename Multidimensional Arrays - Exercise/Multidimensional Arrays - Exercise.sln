@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Target Practice", "6. Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Lego Blocks", "7. Lego Blocks\7. Lego Blocks.csproj", "{CAA22E40-FB68-4738-95FC-C03963060048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Radioactive Bunnies", "8. Radioactive Bunnies\8. Radioactive Bunnies.csproj", "{F6333723-3E48-4032-8A25-7C8388919E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Crossfire", "9. Crossfire\9. Crossfire.csproj", "{0AA47191-1D6E-4218-9CFD-E1F5A14DA04D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{CAA22E40-FB68-4738-95FC-C03963060048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAA22E40-FB68-4738-95FC-C03963060048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAA22E40-FB68-4738-95FC-C03963060048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6333723-3E48-4032-8A25-7C8388919E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6333723-3E48-4032-8A25-7C8388919E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6333723-3E48-4032-8A25-7C8388919E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6333723-3E48-4032-8A25-7C8388919E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA47191-1D6E-4218-9CFD-E1F5A14DA04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA47191-1D6E-4218-9CFD-E1F5A14DA04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA47191-1D6E-4218-9CFD-E1F5A14DA04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA47191-1D6E-4218-9CFD-E1F5A14DA04D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
