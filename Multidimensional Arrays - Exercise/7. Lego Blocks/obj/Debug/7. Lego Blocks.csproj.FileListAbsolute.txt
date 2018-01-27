@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\bin\Debug\_7.Lego_Blocks.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\bin\Debug\_7.Lego_Blocks.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\bin\Debug\_7.Lego_Blocks.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\obj\Debug\7. Lego Blocks.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\obj\Debug\7. Lego Blocks.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\obj\Debug\_7.Lego_Blocks.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\7. Lego Blocks\obj\Debug\_7.Lego_Blocks.pdb
