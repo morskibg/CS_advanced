@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\bin\Debug\11_V2.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\bin\Debug\11_V2.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\bin\Debug\11_V2.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\obj\Debug\11_V2.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\obj\Debug\11_V2.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\obj\Debug\11_V2.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\11_V2\obj\Debug\11_V2.pdb

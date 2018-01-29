@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.pdb

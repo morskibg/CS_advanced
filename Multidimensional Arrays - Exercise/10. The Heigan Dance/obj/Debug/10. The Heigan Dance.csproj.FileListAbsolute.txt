@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.exe.config
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\bin\Debug\_10.The_Heigan_Dance.pdb
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\obj\Debug\10. The Heigan Dance.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\obj\Debug\10. The Heigan Dance.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\obj\Debug\_10.The_Heigan_Dance.exe
+E:\Work\SoftUni\git\CS_advanced\Multidimensional Arrays - Exercise\10. The Heigan Dance\obj\Debug\_10.The_Heigan_Dance.pdb
