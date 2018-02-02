@@ -4,3 +4,10 @@ D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\03. Custom Min Function\bin\
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\03. Custom Min Function.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.exe
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\bin\Debug\_03.Custom_Min_Function.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\03. Custom Min Function.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\03. Custom Min Function.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\03. Custom Min Function\obj\Debug\_03.Custom_Min_Function.pdb

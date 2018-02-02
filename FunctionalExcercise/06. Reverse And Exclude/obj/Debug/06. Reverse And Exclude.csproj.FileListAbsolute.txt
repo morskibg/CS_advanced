@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\bin\Debug\_06.Reverse_And_Exclude.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\obj\Debug\06. Reverse And Exclude.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\obj\Debug\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\06. Reverse And Exclude\obj\Debug\_06.Reverse_And_Exclude.pdb

@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\obj\Debug\10. Predicate Party!.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\obj\Debug\10. Predicate Party!.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.pdb

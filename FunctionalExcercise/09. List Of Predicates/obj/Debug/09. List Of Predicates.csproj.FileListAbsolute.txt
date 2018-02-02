@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\09. List Of Predicates\bin\Debug\_09.List_Of_Predicates.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\09. List Of Predicates\obj\Debug\09. List Of Predicates.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\09. List Of Predicates\obj\Debug\_09.List_Of_Predicates.pdb

@@ -3,3 +3,10 @@ D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\2. Knights of Honor\bin\Debu
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.pdb
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\2. Knights of Honor\obj\Debug\_2.Knights_of_Honor.exe
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\2. Knights of Honor\obj\Debug\_2.Knights_of_Honor.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\bin\Debug\_2.Knights_of_Honor.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\obj\Debug\2. Knights of Honor.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\obj\Debug\2. Knights of Honor.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\obj\Debug\_2.Knights_of_Honor.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\2. Knights of Honor\obj\Debug\_2.Knights_of_Honor.pdb

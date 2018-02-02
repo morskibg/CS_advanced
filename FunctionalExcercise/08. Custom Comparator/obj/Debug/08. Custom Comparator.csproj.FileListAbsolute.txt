@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\obj\Debug\08. Custom Comparator.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\08. Custom Comparator\obj\Debug\08. Custom Comparator.csprojResolveAssemblyReference.cache

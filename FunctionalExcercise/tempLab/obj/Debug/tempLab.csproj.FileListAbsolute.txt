@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\bin\Debug\tempLab.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\bin\Debug\tempLab.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\bin\Debug\tempLab.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\obj\Debug\tempLab.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\obj\Debug\tempLab.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\obj\Debug\tempLab.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\tempLab\obj\Debug\tempLab.pdb

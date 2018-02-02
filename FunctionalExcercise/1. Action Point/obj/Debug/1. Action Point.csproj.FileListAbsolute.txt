@@ -3,3 +3,10 @@ D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.pdb
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\_1.Action_Point.exe
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\_1.Action_Point.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\1. Action Point.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\1. Action Point.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\_1.Action_Point.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\_1.Action_Point.pdb

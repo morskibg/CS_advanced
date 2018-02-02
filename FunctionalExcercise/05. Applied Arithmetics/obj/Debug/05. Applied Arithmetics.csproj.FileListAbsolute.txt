@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\obj\Debug\05. Applied Arithmetics.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\obj\Debug\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.pdb

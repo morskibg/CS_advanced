@@ -4,3 +4,10 @@ D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\bin\D
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\04. Find Evens or Odds.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.exe
 D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\bin\Debug\_04.Find_Evens_or_Odds.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\04. Find Evens or Odds.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\04. Find Evens or Odds\obj\Debug\_04.Find_Evens_or_Odds.pdb
