@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Action Point", "1. Action Point\1. Action Point.csproj", "{FA46DEEA-0EF5-486C-8D4C-7802221E7756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Knights of Honor", "2. Knights of Honor\2. Knights of Honor.csproj", "{4A3F9C9F-B16A-4EA4-B8E8-72E6AE02D7DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Custom Min Function", "03. Custom Min Function\03. Custom Min Function.csproj", "{DD0CDF09-FAF9-4D84-83CC-E83F610DA163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Find Evens or Odds", "04. Find Evens or Odds\04. Find Evens or Odds.csproj", "{9631AAD6-627D-4F30-B17A-CDE6016C4E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA46DEEA-0EF5-486C-8D4C-7802221E7756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA46DEEA-0EF5-486C-8D4C-7802221E7756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA46DEEA-0EF5-486C-8D4C-7802221E7756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA46DEEA-0EF5-486C-8D4C-7802221E7756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3F9C9F-B16A-4EA4-B8E8-72E6AE02D7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3F9C9F-B16A-4EA4-B8E8-72E6AE02D7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3F9C9F-B16A-4EA4-B8E8-72E6AE02D7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3F9C9F-B16A-4EA4-B8E8-72E6AE02D7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD0CDF09-FAF9-4D84-83CC-E83F610DA163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0CDF09-FAF9-4D84-83CC-E83F610DA163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0CDF09-FAF9-4D84-83CC-E83F610DA163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0CDF09-FAF9-4D84-83CC-E83F610DA163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9631AAD6-627D-4F30-B17A-CDE6016C4E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9631AAD6-627D-4F30-B17A-CDE6016C4E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9631AAD6-627D-4F30-B17A-CDE6016C4E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9631AAD6-627D-4F30-B17A-CDE6016C4E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Soft\C#\projects\CS_advanced\FunctinalLab\1.SortEven\obj\Debug\1.SortEven.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\FunctinalLab\1.SortEven\bin\Debug\1.SortEven.exe.config
+D:\Soft\C#\projects\CS_advanced\FunctinalLab\1.SortEven\bin\Debug\1.SortEven.exe
+D:\Soft\C#\projects\CS_advanced\FunctinalLab\1.SortEven\bin\Debug\1.SortEven.pdb
+D:\Soft\C#\projects\CS_advanced\FunctinalLab\1.SortEven\obj\Debug\1.SortEven.exe
+D:\Soft\C#\projects\CS_advanced\FunctinalLab\1.SortEven\obj\Debug\1.SortEven.pdb

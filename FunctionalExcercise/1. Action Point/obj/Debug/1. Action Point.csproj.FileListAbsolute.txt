@@ -1,0 +1,5 @@
+D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.exe.config
+D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.exe
+D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\bin\Debug\_1.Action_Point.pdb
+D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\_1.Action_Point.exe
+D:\Soft\C#\projects\CS_advanced\FunctionalExcercise\1. Action Point\obj\Debug\_1.Action_Point.pdb
