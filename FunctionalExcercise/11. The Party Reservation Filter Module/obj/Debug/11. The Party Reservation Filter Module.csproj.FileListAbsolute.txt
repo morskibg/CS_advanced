@@ -1,0 +1,7 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\bin\Debug\_11.The_Party_Reservation_Filter_Module.exe.config
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\bin\Debug\_11.The_Party_Reservation_Filter_Module.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\bin\Debug\_11.The_Party_Reservation_Filter_Module.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\obj\Debug\11. The Party Reservation Filter Module.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\obj\Debug\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\obj\Debug\_11.The_Party_Reservation_Filter_Module.exe
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\11. The Party Reservation Filter Module\obj\Debug\_11.The_Party_Reservation_Filter_Module.pdb
