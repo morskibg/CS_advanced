@@ -4,68 +4,68 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10.Predicate_Party_
+namespace _11.The_Party_Reservation_Filter_Module
 {
-   
     class Program
     {
-        static void ModFunc(ref List<string> data, Func<string ,bool> foo, string command)
+        static void ProcessFilter(Dictionary<string, int> names, Func<string, bool> filter, string filterCommand)
         {
-            List<string> temp = new List<string>();
-            foreach (var name in data)
+
+            foreach (var name in names.Keys.Where(filter).ToList())
             {
-                temp.Add(name);
-                if (foo(name))
+                if (filterCommand == "Add filter")
                 {
-                    if (command == "Double")
-                    {
-                        temp.Add(name);
-                    }
-                    else
-                    {
-                        temp.RemoveAll(x => x == name);
-                    }
-                }
-            }
-            data = temp;
-        }
-        static void Main(string[] args)
-        {
-            List<string> names = Console.ReadLine().Split(' ').ToList();
-            while (true)
-            {
-                string line = Console.ReadLine();
-                if (line == "Party!")
-                {
-                    break;
-                }
-                string[] tokens = line.Split(' ').ToArray();
-                string command = tokens[0];
-                string condition = tokens[1];
-                string pattern = tokens[2];
-                if (condition == "StartsWith")
-                {
-                    ModFunc(ref names, x => x.StartsWith(pattern), command);
-                }
-                else if (condition == "EndsWith")
-                {
-                    ModFunc(ref names, x => x.EndsWith(pattern), command);
+                    names[name] = 0;
                 }
                 else
                 {
-                    int len = int.Parse(pattern);
-                    ModFunc(ref names, x => x.Length == len, command);
+                    names[name] = 1;
                 }
             }
-            if (names.Count == 0)
+        }
+        static void Main(string[] args)
+        {
+            string[] names = Console.ReadLine().Split(' ').ToArray();
+            Dictionary<string, int> dictNames = new Dictionary<string, int>();
+            foreach (var name in names)
             {
-                Console.WriteLine("Nobody is going to the party!");
+                if (!dictNames.ContainsKey(name))
+                {
+                    dictNames[name] = 0;
+                }
+                dictNames[name]++;
             }
-            else
+            
+            while (true)
             {
-                Console.WriteLine($"{string.Join(", ", names)} are going to the party!");
+                string line = Console.ReadLine();
+                if (line == "Print")
+                {
+                    break;
+                }
+                string[] tokens = line.Split(';').ToArray();
+                string filterCommand = tokens[0];
+                string filterType = tokens[1];
+                string pattern = tokens[2];
+                if (filterType == "StartsWith")
+                {
+                    ProcessFilter(dictNames, x => x.StartsWith(pattern), filterCommand);
+                }
+                else if (filterType == "EndsWith")
+                {
+                    ProcessFilter(dictNames, x => x.EndsWith(pattern), filterCommand);
+                }
+                else if (filterType == "Length")
+                {
+                    int len = int.Parse(pattern);
+                    ProcessFilter(dictNames, x => x.Length == len, filterCommand);
+                }
+                else
+                {
+                    ProcessFilter(dictNames, x => x.Contains(pattern), filterCommand);
+                }
             }
-           
+            Console.WriteLine(string.Join(" ", names.Where(x => dictNames[x] >0)));
         }
     }
 }

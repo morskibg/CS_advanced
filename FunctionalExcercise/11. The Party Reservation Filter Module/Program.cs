@@ -8,25 +8,29 @@ namespace _11.The_Party_Reservation_Filter_Module
 {
     class Program
     {
-        static void ApplayFilters(HashSet<Func<string, bool>> filters, List<string> names)
+        static void ProcessFilter(Dictionary<string, int> names, Func<string, bool> filter, string filterCommand)
         {
-            foreach (var filter in filters)
+
+            foreach (var name in names.Keys.Where(filter).ToList())
             {
-                int t = 0;
-                foreach (var name in names)
+                if (filterCommand == "Add filter")
                 {
-                    if (filter(name))
-                    {
-                        
-                    }
+                    names[name] = 0;
+                }
+                else
+                {
+                    names[name]++;
                 }
             }
         }
-       // static void ForEachName()
         static void Main(string[] args)
         {
-            HashSet<Func<string,  bool>> filters = new HashSet<Func<string,  bool>>();
-            List<string> names = Console.ReadLine().Split(' ').ToList();
+            string[] names = Console.ReadLine().Split(' ').ToArray();
+            Dictionary<string, int> dictNames = new Dictionary<string, int>();
+            foreach (var name in names)
+            {
+                dictNames[name] = 1;
+            }
             while (true)
             {
                 string line = Console.ReadLine();
@@ -38,54 +42,32 @@ namespace _11.The_Party_Reservation_Filter_Module
                 string filterCommand = tokens[0];
                 string filterType = tokens[1];
                 string pattern = tokens[2];
-
-                switch (filterType)
+                if (filterType == "StartsWith")
                 {
-                    case "Starts with":
-                        if (filterCommand == "Add filter")
-                        {
-                            filters.Add(x => x.StartsWith(pattern));
-                        }
-                        else
-                        {
-                            filters.Remove(x => x.StartsWith(pattern));
-                        }
-                        break;
-                    case "Ends with":
-                        if (filterCommand == "Add filter")
-                        {
-                            filters.Add(x => x.EndsWith(pattern));
-                        }
-                        else
-                        {
-                            filters.Remove(x => x.EndsWith(pattern));
-                        }
-                        break;
-                    case "Length":
-                        if (filterCommand == "Add filter")
-                        {
-                            filters.Add(x => x.Length == int.Parse(pattern));
-                        }
-                        else
-                        {
-                            filters.Remove(x => x.Length == int.Parse(pattern));
-                        }
-                        break;
-                    case "Contains":
-                        if (filterCommand == "Add filter")
-                        {
-                            filters.Add(x => x.Contains(pattern));
-                        }
-                        else
-                        {
-                            filters.Remove(x => x.Contains(pattern));
-                        }
-                        break;
+                    ProcessFilter(dictNames, x => x.StartsWith(pattern), filterCommand);
                 }
-                
-                ApplayFilters(filters, names);
+                else if (filterType == "EndsWith")
+                {
+                    ProcessFilter(dictNames, x => x.EndsWith(pattern), filterCommand);
+                }
+                else if (filterType == "Length")
+                {
+                    int len = int.Parse(pattern);
+                    ProcessFilter(dictNames, x => x.Length == len, filterCommand);
+                }
+                else
+                {
+                    ProcessFilter(dictNames, x => x.Contains(pattern), filterCommand);
+                }
             }
-            int t = 0;
+            foreach (var name in dictNames)
+            {
+                if (name.Value > 0) 
+                {
+                    Console.Write($"{name.Key} ");
+                }
+            }
+            Console.WriteLine();
         }
     }
 }

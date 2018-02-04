@@ -1,0 +1,11 @@
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.deps.json
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.runtimeconfig.json
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.runtimeconfig.dev.json
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.dll
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\bin\Debug\netcoreapp2.0\13. TriFunction.pdb
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.AssemblyInfoInputs.cache
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.AssemblyInfo.cs
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.dll
+E:\Work\SoftUni\git\CS_advanced\FunctionalExcercise\13. TriFunction\obj\Debug\netcoreapp2.0\13. TriFunction.pdb
