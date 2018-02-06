@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Greedy Times\bin\Debug\_03.Greedy_Times.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Greedy Times\bin\Debug\_03.Greedy_Times.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Greedy Times\bin\Debug\_03.Greedy_Times.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Greedy Times\obj\Debug\03. Greedy Times.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Greedy Times\obj\Debug\_03.Greedy_Times.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Greedy Times\obj\Debug\_03.Greedy_Times.pdb

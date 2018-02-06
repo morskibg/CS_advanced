@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Treasure Map\bin\Debug\_04.Treasure_Map.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Treasure Map\bin\Debug\_04.Treasure_Map.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Treasure Map\bin\Debug\_04.Treasure_Map.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Treasure Map\obj\Debug\04. Treasure Map.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Treasure Map\obj\Debug\_04.Treasure_Map.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Treasure Map\obj\Debug\_04.Treasure_Map.pdb

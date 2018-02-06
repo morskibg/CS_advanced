@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\OldExams\bin\Debug\OldExams.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\OldExams\bin\Debug\OldExams.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\OldExams\bin\Debug\OldExams.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\OldExams\obj\Debug\01. Dangerous Floor.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\OldExams\obj\Debug\OldExams.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\OldExams\obj\Debug\OldExams.pdb
