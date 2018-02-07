@@ -17,11 +17,11 @@ namespace _02.Knight_Game
             public Point(int i, int j)
             {
                 this.Row = i;
-                this.Col= j;
+                this.Col = j;
             }
 
         }
-        static bool IsInMatrix(int n ,int newRow, int newCol)
+        static bool IsInMatrix(int n, int newRow, int newCol)
         {
             return newRow >= 0 && newRow < n && newCol >= 0 && newCol < n;
         }
@@ -29,15 +29,7 @@ namespace _02.Knight_Game
         static int HowManyCanAttack(int currRow, int currCol, char[,] matrix, int n)
         {
             int victims = 0;
-            if (IsInMatrix(n, currRow - 1, currCol - 2) && matrix[currRow - 1, currCol - 2] == 'K')
-            {
-                ++victims;
-            }
-            if (IsInMatrix(n, currRow - 2, currCol - 1) && matrix[currRow - 2, currCol - 1] == 'K')
-            {
-                ++victims;
-            }
-            if (IsInMatrix(n, currRow - 2, currCol + 1) && matrix[currRow -2 , currCol + 1] == 'K')
+            if (IsInMatrix(n, currRow - 2, currCol + 1) && matrix[currRow - 2, currCol + 1] == 'K')
             {
                 ++victims;
             }
@@ -61,12 +53,22 @@ namespace _02.Knight_Game
             {
                 ++victims;
             }
+            if (IsInMatrix(n, currRow - 1, currCol - 2) && matrix[currRow - 1, currCol - 2] == 'K')
+            {
+                ++victims;
+            }
+            if (IsInMatrix(n, currRow - 2, currCol - 1) && matrix[currRow - 2, currCol - 1] == 'K')
+            {
+                ++victims;
+            }
 
             return victims;
         }
 
         static void Print(char[,] matrix, int n)
         {
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+            Console.WriteLine();
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < n; j++)
@@ -75,11 +77,13 @@ namespace _02.Knight_Game
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine("-----------------------------------");
+            Console.WriteLine();
         }
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            char[,] matrix = new char[n,n];
+            char[,] matrix = new char[n, n];
             List<Point> knights = new List<Point>();
             for (int i = 0; i < n; i++)
             {
@@ -93,6 +97,7 @@ namespace _02.Knight_Game
                     matrix[i, j] = input[j];
                 }
             }
+            // Print(matrix, n);
             List<int> victims = new List<int>(knights.Count);
             for (int i = 0; i < knights.Count; i++)
             {
@@ -104,8 +109,11 @@ namespace _02.Knight_Game
             {
 
                 int maxViolentKnight = victims.IndexOf(victims.Max());
-                matrix[knights[maxViolentKnight].Col, knights[maxViolentKnight].Row] = '0';
+                //Point maxVN = knights[maxViolentKnight];
+                //Console.WriteLine($"max violent knite is at {maxVN.Row} row and {maxVN.Col}");
+                matrix[knights[maxViolentKnight].Row, knights[maxViolentKnight].Col] = '*';
                 knights.RemoveAt(maxViolentKnight);
+                //Print(matrix, n);
                 victims.Clear();
                 for (int i = 0; i < knights.Count; i++)
                 {
@@ -114,8 +122,10 @@ namespace _02.Knight_Game
                 }
 
             }
-            Print(matrix, n);
+            //Print(matrix, n);
+
             Console.WriteLine(initialKnights - knights.Count);
+
             int t = 0;
         }
     }
