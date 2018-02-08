@@ -4,3 +4,9 @@ E:\Work\SoftUni\git\CS_advanced\OldExams\04. Hospital\bin\Debug\_04.Hospital.pdb
 E:\Work\SoftUni\git\CS_advanced\OldExams\04. Hospital\obj\Debug\04. Hospital.csprojResolveAssemblyReference.cache
 E:\Work\SoftUni\git\CS_advanced\OldExams\04. Hospital\obj\Debug\_04.Hospital.exe
 E:\Work\SoftUni\git\CS_advanced\OldExams\04. Hospital\obj\Debug\_04.Hospital.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Hospital\bin\Debug\_04.Hospital.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Hospital\bin\Debug\_04.Hospital.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Hospital\bin\Debug\_04.Hospital.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Hospital\obj\Debug\04. Hospital.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Hospital\obj\Debug\_04.Hospital.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Hospital\obj\Debug\_04.Hospital.pdb

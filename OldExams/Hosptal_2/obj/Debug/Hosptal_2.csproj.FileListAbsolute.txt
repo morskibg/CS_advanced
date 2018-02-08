@@ -1,0 +1,6 @@
+D:\Soft\C#\projects\CS_advanced\OldExams\Hosptal_2\bin\Debug\Hosptal_2.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\Hosptal_2\bin\Debug\Hosptal_2.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\Hosptal_2\bin\Debug\Hosptal_2.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\Hosptal_2\obj\Debug\Hosptal_2.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\Hosptal_2\obj\Debug\Hosptal_2.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\Hosptal_2\obj\Debug\Hosptal_2.pdb
