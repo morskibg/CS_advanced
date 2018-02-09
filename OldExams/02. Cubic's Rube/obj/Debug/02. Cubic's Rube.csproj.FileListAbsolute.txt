@@ -1,0 +1,6 @@
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.pdb

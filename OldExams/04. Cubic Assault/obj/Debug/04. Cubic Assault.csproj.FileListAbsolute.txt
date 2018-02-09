@@ -1,0 +1,6 @@
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\04. Cubic Assault.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.pdb
