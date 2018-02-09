@@ -4,3 +4,9 @@ E:\Work\SoftUni\git\CS_advanced\OldExams\02. Crypto Master\bin\Debug\_02.Crypto_
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Crypto Master\obj\Debug\02. Crypto Master.csprojResolveAssemblyReference.cache
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Crypto Master\obj\Debug\_02.Crypto_Master.exe
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Crypto Master\obj\Debug\_02.Crypto_Master.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Crypto Master\bin\Debug\_02.Crypto_Master.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Crypto Master\bin\Debug\_02.Crypto_Master.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Crypto Master\bin\Debug\_02.Crypto_Master.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Crypto Master\obj\Debug\02. Crypto Master.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Crypto Master\obj\Debug\_02.Crypto_Master.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Crypto Master\obj\Debug\_02.Crypto_Master.pdb

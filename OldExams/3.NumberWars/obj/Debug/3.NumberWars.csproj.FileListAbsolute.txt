@@ -4,3 +4,9 @@ E:\Work\SoftUni\git\CS_advanced\OldExams\3.NumberWars\bin\Debug\3.NumberWars.pdb
 E:\Work\SoftUni\git\CS_advanced\OldExams\3.NumberWars\obj\Debug\3.NumberWars.exe
 E:\Work\SoftUni\git\CS_advanced\OldExams\3.NumberWars\obj\Debug\3.NumberWars.pdb
 E:\Work\SoftUni\git\CS_advanced\OldExams\3.NumberWars\obj\Debug\3.NumberWars.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\3.NumberWars\bin\Debug\3.NumberWars.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\3.NumberWars\bin\Debug\3.NumberWars.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\3.NumberWars\bin\Debug\3.NumberWars.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\3.NumberWars\obj\Debug\3.NumberWars.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\3.NumberWars\obj\Debug\3.NumberWars.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\3.NumberWars\obj\Debug\3.NumberWars.pdb

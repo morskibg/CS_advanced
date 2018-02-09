@@ -4,3 +4,9 @@ E:\Work\SoftUni\git\CS_advanced\OldExams\02. Knight Game\bin\Debug\_02.Knight_Ga
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Knight Game\obj\Debug\_02.Knight_Game.exe
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Knight Game\obj\Debug\_02.Knight_Game.pdb
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Knight Game\obj\Debug\02. Knight Game.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Knight Game\bin\Debug\_02.Knight_Game.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Knight Game\bin\Debug\_02.Knight_Game.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Knight Game\bin\Debug\_02.Knight_Game.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Knight Game\obj\Debug\02. Knight Game.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Knight Game\obj\Debug\_02.Knight_Game.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\02. Knight Game\obj\Debug\_02.Knight_Game.pdb

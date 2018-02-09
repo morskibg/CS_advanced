@@ -1,0 +1,6 @@
+D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicArtilleryNonClass.exe.config
+D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicArtilleryNonClass.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicArtilleryNonClass.pdb
+D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.csprojResolveAssemblyReference.cache
+D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.exe
+D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.pdb
