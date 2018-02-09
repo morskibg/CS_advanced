@@ -4,3 +4,10 @@ D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_
 D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.exe
 D:\Soft\C#\projects\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\bin\Debug\_02.Cubic_s_Rube.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\02. Cubic's Rube.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Cubic's Rube\obj\Debug\_02.Cubic_s_Rube.pdb

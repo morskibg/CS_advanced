@@ -4,3 +4,10 @@ D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_A
 D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\04. Cubic Assault.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.exe
 D:\Soft\C#\projects\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\bin\Debug\_04.Cubic_Assault.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\04. Cubic Assault.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\04. Cubic Assault.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Cubic Assault\obj\Debug\_04.Cubic_Assault.pdb

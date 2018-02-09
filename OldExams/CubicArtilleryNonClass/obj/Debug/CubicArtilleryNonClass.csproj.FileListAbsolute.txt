@@ -4,3 +4,10 @@ D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicA
 D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.exe
 D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicArtilleryNonClass.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicArtilleryNonClass.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\bin\Debug\CubicArtilleryNonClass.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtilleryNonClass\obj\Debug\CubicArtilleryNonClass.pdb

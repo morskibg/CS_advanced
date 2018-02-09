@@ -1,0 +1,5 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\ArrNumbersLINQ\bin\Debug\ArrNumbersLINQ.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\ArrNumbersLINQ\bin\Debug\ArrNumbersLINQ.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\ArrNumbersLINQ\bin\Debug\ArrNumbersLINQ.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\ArrNumbersLINQ\obj\Debug\ArrNumbersLINQ.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\ArrNumbersLINQ\obj\Debug\ArrNumbersLINQ.pdb

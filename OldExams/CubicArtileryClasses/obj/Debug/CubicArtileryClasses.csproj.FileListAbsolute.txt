@@ -4,3 +4,10 @@ D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtileryClasses\bin\Debug\CubicArt
 D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.exe
 D:\Soft\C#\projects\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\bin\Debug\CubicArtileryClasses.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\bin\Debug\CubicArtileryClasses.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\bin\Debug\CubicArtileryClasses.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\CubicArtileryClasses\obj\Debug\CubicArtileryClasses.pdb

@@ -4,3 +4,6 @@ D:\Soft\C#\projects\CS_advanced\OldExams\01. Cubic Artillery\bin\Debug\_01.Cubic
 D:\Soft\C#\projects\CS_advanced\OldExams\01. Cubic Artillery\obj\Debug\01. Cubic Artillery.csprojResolveAssemblyReference.cache
 D:\Soft\C#\projects\CS_advanced\OldExams\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.exe
 D:\Soft\C#\projects\CS_advanced\OldExams\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Cubic Artillery\bin\Debug\_01.Cubic_Artillery.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Cubic Artillery\obj\Debug\_01.Cubic_Artillery.pdb

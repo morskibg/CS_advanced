@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Arrange Numbers\bin\Debug\_01.Arrange_Numbers.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Arrange Numbers\bin\Debug\_01.Arrange_Numbers.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Arrange Numbers\bin\Debug\_01.Arrange_Numbers.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Arrange Numbers\obj\Debug\01. Arrange Numbers.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Arrange Numbers\obj\Debug\_01.Arrange_Numbers.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Arrange Numbers\obj\Debug\_01.Arrange_Numbers.pdb
