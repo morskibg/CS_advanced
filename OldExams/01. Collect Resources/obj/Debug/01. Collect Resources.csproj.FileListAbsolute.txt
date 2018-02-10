@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Collect Resources\bin\Debug\_01.Collect_Resources.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Collect Resources\bin\Debug\_01.Collect_Resources.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Collect Resources\bin\Debug\_01.Collect_Resources.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Collect Resources\obj\Debug\01. Collect Resources.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Collect Resources\obj\Debug\_01.Collect_Resources.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\01. Collect Resources\obj\Debug\_01.Collect_Resources.pdb

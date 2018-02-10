@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Parking System\bin\Debug\_02.Parking_System.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Parking System\obj\Debug\02. Parking System.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Parking System\bin\Debug\_02.Parking_System.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Parking System\bin\Debug\_02.Parking_System.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Parking System\obj\Debug\_02.Parking_System.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Parking System\obj\Debug\_02.Parking_System.pdb

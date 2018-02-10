@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Basic Markup Language",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Champions League", "04. Champions League\04. Champions League.csproj", "{9AFFEE44-EC5C-4BBB-BDEE-9A71CA4934ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Collect Resources", "01. Collect Resources\01. Collect Resources.csproj", "{970D245C-8DD8-4B99-9AAA-236AF834AF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Parking System", "02. Parking System\02. Parking System.csproj", "{E8D8529F-CDFB-4CA4-9D34-3AA8257DFEA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{9AFFEE44-EC5C-4BBB-BDEE-9A71CA4934ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AFFEE44-EC5C-4BBB-BDEE-9A71CA4934ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AFFEE44-EC5C-4BBB-BDEE-9A71CA4934ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970D245C-8DD8-4B99-9AAA-236AF834AF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970D245C-8DD8-4B99-9AAA-236AF834AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970D245C-8DD8-4B99-9AAA-236AF834AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970D245C-8DD8-4B99-9AAA-236AF834AF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D8529F-CDFB-4CA4-9D34-3AA8257DFEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D8529F-CDFB-4CA4-9D34-3AA8257DFEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D8529F-CDFB-4CA4-9D34-3AA8257DFEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D8529F-CDFB-4CA4-9D34-3AA8257DFEA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
