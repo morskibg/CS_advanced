@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Basic Markup Language\bin\Debug\_03.Basic_Markup_Language.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Basic Markup Language\bin\Debug\_03.Basic_Markup_Language.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Basic Markup Language\bin\Debug\_03.Basic_Markup_Language.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Basic Markup Language\obj\Debug\03. Basic Markup Language.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Basic Markup Language\obj\Debug\_03.Basic_Markup_Language.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\03. Basic Markup Language\obj\Debug\_03.Basic_Markup_Language.pdb

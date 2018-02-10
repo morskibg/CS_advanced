@@ -1,1 +1,6 @@
 E:\Work\SoftUni\git\CS_advanced\OldExams\02. Monopoly\bin\Debug\_02.Monopoly.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Monopoly\bin\Debug\_02.Monopoly.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Monopoly\bin\Debug\_02.Monopoly.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Monopoly\obj\Debug\02. Monopoly.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Monopoly\obj\Debug\_02.Monopoly.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\02. Monopoly\obj\Debug\_02.Monopoly.pdb
