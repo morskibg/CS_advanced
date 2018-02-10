@@ -1,0 +1,6 @@
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Champions League\bin\Debug\_04.Champions_League.exe.config
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Champions League\bin\Debug\_04.Champions_League.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Champions League\bin\Debug\_04.Champions_League.pdb
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Champions League\obj\Debug\04. Champions League.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Champions League\obj\Debug\_04.Champions_League.exe
+E:\Work\SoftUni\git\CS_advanced\OldExams\04. Champions League\obj\Debug\_04.Champions_League.pdb
